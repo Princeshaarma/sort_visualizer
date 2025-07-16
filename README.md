@@ -1,1 +1,1 @@
-this project Here help the user visualize how different sorting algorithm in an interactive way . You can access the website through this link https://vercel.com/princes-projects-a62275f8/sort-visualizer/Dv4NsMKA5nZwJjYpcueEJz7dCEHP
+this project Here help the user visualize how different sorting algorithm in an interactive way . You can access the website through this link https://sort-visualizer-cxuz65ds9-princes-projects-a62275f8.vercel.app/
